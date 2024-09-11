@@ -1,10 +1,13 @@
 <!DOCTYPE html>
+<!-- Link to repository on GitHub: https://github.com/Dominik-developer/random-color-palette-picker -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Color palette generator</title>
-
+    <meta name="author" content="Dominik Szczepański">
+    
+    <!-- CSS -->
     <link rel="stylesheet" href="styles.css" >
 </head>
 <body>
